@@ -1,0 +1,13 @@
+services:
+  demo:
+    image: "egalinkin/demo"
+    ports:
+      - "8888:8888"
+    deploy:
+      resources:
+        reservations:
+          devices:
+            - driver: nvidia
+              count: 1
+              capabilities: [gpu]
+    command: python -m jupyter lab --allow-root --ip=0.0.0.0 --no-browser --NotebookApp.token='' --NotebookApp.password='argon2:$argon2id$v=19$m=10240,t=10,p=8$dutey6IvrJac7c5LVbphwg$xU8zQJDzeePxdXPF2/XW+eADQWw25uruV6FlTFJC6KY'
