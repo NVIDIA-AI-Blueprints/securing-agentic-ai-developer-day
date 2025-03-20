@@ -3,8 +3,18 @@
 
 AI Adoption is transforming industries, organizations and daily operations – learn how to bring security fundamentals to the next generation of agentic AI application and deploy with confidence.
 
+In this developer day, we break down an agentic AI workflow, the [AI Virtual Assistant NVIDIA Blueprint](https://build.nvidia.com/nvidia/ai-virtual-assistant-for-customer-service) into its core components. We will be: 
+- Analyzing sample attacks and threats
+- Identifying general security mitigations
+- Discovery weakness in the LLM model
+- Apply Guardrails to mitigate LLM-specific wearknesses. 
+
+You can access notebooks through NVIDIA Brev Launchable [here](https://nvda.ws/3XOfv1C) or view the notebooks as part of this repository. 
+
 # References
 - [Securing Agentic AI Developer Day Slides](assets/slides.pdf)
+- [GTC 2025 Recording](https://www.nvidia.com/gtc/session-catalog/?deeplink=audience-recommend--2&tab.catalogallsessionstab=16566177511100015Kus&search.pcybersecurityp=1736267392004001Amu5&search.pcybersecurityp=1699468149882001CDqA&search.pcybersecurityp=1699468149882002CSFV&search.suggestedaudiencelevel=1732117107498003nOoA#/session/1728679235868001mijf)
+
 
 # Technologies Used 
 
