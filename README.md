@@ -9,7 +9,10 @@ In this developer day, we break down an agentic AI workflow, the [AI Virtual Ass
 - Discovery weakness in the LLM model
 - Apply Guardrails to mitigate LLM-specific wearknesses. 
 
-You can access notebooks through NVIDIA Brev Launchable [here](https://nvda.ws/3XOfv1C) or view the notebooks as part of this repository. 
+Access the notebooks through NVIDIA Brev: 
+
+[![ Click here to deploy.](https://brev-assets.s3.us-west-1.amazonaws.com/nv-lb-dark.svg)](https://brev.nvidia.com/launchable/deploy?launchableID=env-2u8ZUGPOQ7zUX1t4z9pkxhlxoAY)
+
 
 # References
 - [Securing Agentic AI Developer Day Slides](assets/slides.pdf)
