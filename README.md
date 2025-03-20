@@ -45,7 +45,7 @@ NVIDIA Brev provides streamlined access to NVIDIA GPU instances on popular cloud
 - [Try Brev](https://developer.nvidia.com/brev)
 
 ### `garak` 
-`garak`` helps developers discover weaknesses and unwanted behaviors in anything using language model technology.
+`garak` helps developers discover weaknesses and unwanted behaviors in anything using language model technology.
 - [Try `garak`](https://github.com/NVIDIA/garak?tab=readme-ov-file)
 
 ### NeMo Guardrails
