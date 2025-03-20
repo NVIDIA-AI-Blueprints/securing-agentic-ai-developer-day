@@ -1,35 +1,9 @@
-
 ![NVIDIA Header](assets/header.png)
 <h1><img align="center" src="https://github.com/user-attachments/assets/cbe0d62f-c856-4e0b-b3ee-6184b7c4d96f">Securing Agentic AI Developer Day</h1>
 
-[//]: # (Brief blueprint positioning from messaging document) 
+AI Adoption is transforming industries, organizations and daily operations – learn how to bring security fundamentals to the next generation of agentic AI application and deploy with confidence.
 
-[//]: # (Get developer into the code quickly) 
-### Quickstart
-- Deployment Instructions
-- Validation of Setup - sample input/output
-
-[//]: # (Provide architecture, software componnents, hardware requirements, link to API spec) 
-### Overview
-- Technical Diagram (created in draw.io)
-
-#### Software Components
-- List of NIMs and other software
-
-#### Hardware Requirements
-GPU, CPU, system memory, disk space
-
-#### API Definition
-
-[//]: # (Detailed deployment steps) 
-### Deployment
-
-#### Prerequisites
-- NVAIE developer license
-- API Key
-
-[//]: # (Detailed customization steps) 
-### Customization
-
+# References
+- [Securing Agentic AI Developer Day Slides](assets/slides.pdf)
 
 
