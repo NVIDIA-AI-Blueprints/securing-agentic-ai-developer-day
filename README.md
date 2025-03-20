@@ -1,6 +1,8 @@
 ![NVIDIA Header](assets/header.png)
 <h1><img align="center" src="https://github.com/user-attachments/assets/cbe0d62f-c856-4e0b-b3ee-6184b7c4d96f">Securing Agentic AI Developer Day</h1>
 
+_This Developer Day was given in March 2025 during NVIDIA GTC_. 
+
 AI Adoption is transforming industries, organizations and daily operations – learn how to bring security fundamentals to the next generation of agentic AI application and deploy with confidence.
 
 In this developer day, learn how to break down an agentic AI workflow, the [AI Virtual Assistant NVIDIA Blueprint](https://build.nvidia.com/nvidia/ai-virtual-assistant-for-customer-service) into its core components and: 
@@ -16,7 +18,7 @@ Access the notebooks through NVIDIA Brev:
 ## Structure
 
 ### Notebooks
-The developer day contains several Jupyter notebooks that demostrate the usage of `garak` and NeMo Guardrails to discovery model weakness and apply mitigations. 
+The developer day contains several Jupyter notebooks that demostrate the usage of `garak` and NeMo Guardrails to discover model weakness and apply mitigations. 
 
 Follow this order for notebooks: 
 - `setup.ipynb`: Initial setup and configuration of API tokens 
@@ -51,5 +53,3 @@ NVIDIA Brev provides streamlined access to NVIDIA GPU instances on popular cloud
 ### NeMo Guardrails
 NeMo Guardrails is an open-source toolkit for easily adding programmable guardrails to LLM-based conversational applications.
 - [Try Guardrails](https://github.com/NVIDIA/NeMo-Guardrails)
-
-
